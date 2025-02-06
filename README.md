@@ -1,5 +1,11 @@
 # dsdemo
 
+<img width="1217" alt="image" src="https://github.com/user-attachments/assets/2446d9c2-61c1-413c-892c-74f0f31e98ec" />
+
+
+
+
+
 基于deep seek模型自动生成合约买卖建议  询问提示词：
 
 ---
